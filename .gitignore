@@ -1,0 +1,15 @@
+# Local agent state
+.claude/
+.codex/
+.astra/
+.research/
+.blade/
+.wrangler/
+
+# Local files and credentials
+.venv/
+.DS_Store
+.env
+.env.*
+!.env.example
+.secrets/
